@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c636344-cc53-4dc3-8b1f-d4656a95638a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db01: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db02: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="db03: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectId" id="1ZhLgIqzOOE8zZ9l4U2kJi4mQSN" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="spring.boot" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\springcloud\springcloud-provider-dept-hystrix-8001\src\main\java" />
+      <recent name="F:\IdeaProjects\springcloud\springcloud-provider-dept-hystrix-8001\src\main\resources" />
+      <recent name="F:\IdeaProjects\springcloud\springcloud.consumer-dept-feign\src\test" />
+      <recent name="F:\IdeaProjects\springcloud\springcloud.consumer-dept-feign\src\main\java" />
+      <recent name="F:\IdeaProjects\springcloud\springcloud-provider-dept-8003\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.wjl.springcloud.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\IdeaProjects\springcloud\springcloud.consumer-dept-feign\src\main\resources" />
+      <recent name="F:\IdeaProjects\springcloud\springcloud-provider-dept-8002\src\main\resources\mybatis" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ConfigClient_3355">
+    <configuration name="ConfigClient_3355" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-client-3355" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjl.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wjl.springcloud.ConfigClient_3355" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConfigServer_3344" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-config-server-3344" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjl.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wjl.springcloud.ConfigServer_3344" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProviderHystrix_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-dept-hystrix-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjl.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wjl.springcloud.DeptProviderHystrix_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-provider-dept-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wjl.DeptProvider_8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DeptProvider_8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springcloud-provider-dept-8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wjl.springcloud.DeptProvider_8001" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer_7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-eureka-7001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjl.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wjl.springcloud.EurekaServer_7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication_9527" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springcloud-zull-9527" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.wjl.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.wjl.springcloud.ZuulApplication_9527" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServer_7001" />
+      <item itemvalue="Spring Boot.DeptProviderHystrix_8001" />
+      <item itemvalue="Spring Boot.ZuulApplication_9527" />
+      <item itemvalue="Spring Boot.ConfigServer_3344" />
+      <item itemvalue="Spring Boot.ConfigClient_3355" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ConfigClient_3355" />
+        <item itemvalue="Spring Boot.ConfigServer_3344" />
+        <item itemvalue="Spring Boot.ZuulApplication_9527" />
+        <item itemvalue="Spring Boot.DeptProviderHystrix_8001" />
+        <item itemvalue="Spring Boot.EurekaServer_7001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.33638445" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c636344-cc53-4dc3-8b1f-d4656a95638a" name="Default Changelist" comment="" />
+      <created>1585286488470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585286488470</updated>
+      <workItem from="1585286489924" duration="2821000" />
+      <workItem from="1585289329778" duration="751000" />
+      <workItem from="1585290783261" duration="3499000" />
+      <workItem from="1585294566358" duration="7195000" />
+      <workItem from="1585375769117" duration="8255000" />
+      <workItem from="1585463009627" duration="11998000" />
+      <workItem from="1585562806242" duration="962000" />
+      <workItem from="1585563784225" duration="582000" />
+      <workItem from="1585564370629" duration="10277000" />
+    </task>
+    <task id="LOCAL-00001" summary="springcloud项目模板，eureka，riboon，hystrix，feign等">
+      <created>1585579037966</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1585579037966</updated>
+    </task>
+    <task id="LOCAL-00002" summary="springcloud项目模板，eureka，riboon，hystrix，feign等">
+      <created>1585579674080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1585579674080</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springcloud项目模板，eureka，riboon，hystrix，feign等" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud项目模板，eureka，riboon，hystrix，feign等" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="617" y="197" key="#Notifications" timestamp="1585579701312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="617" y="197" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1585579701312" />
+    <state x="2" y="356" key="#Project_Structure" timestamp="1585564001397">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2" y="356" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1585564001397" />
+    <state x="619" y="145" width="1092" height="770" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585381064739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="619" y="145" width="1092" height="770" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585381064739" />
+    <state x="682" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585291276102">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="682" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585291276102" />
+    <state x="416" y="458" key="#com.intellij.ide.util.MemberChooser" timestamp="1585468404370">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="416" y="458" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585468404370" />
+    <state x="989" y="349" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1585299824082">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="989" y="349" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585299824082" />
+    <state x="648" y="378" width="624" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1585295258646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="648" y="378" width="624" height="294" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1585295258646" />
+    <state x="604" y="161" key="CommitChangelistDialog2" timestamp="1585579662646">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="604" y="161" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585579662646" />
+    <state x="159" y="159" key="DiffContextDialog" timestamp="1585579520028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="159" y="159" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585579520028" />
+    <state x="1111" y="290" key="FileChooserDialogImpl" timestamp="1585578821175">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1111" y="290" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1585578821175" />
+    <state x="1085" y="475" width="382" height="175" key="Github.CreateGistDialog" timestamp="1585578643005">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1085" y="475" width="382" height="175" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585578643005" />
+    <state width="869" height="281" key="GridCell.Tab.0.bottom" timestamp="1585579213973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="869" height="281" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585579213973" />
+    <state width="869" height="281" key="GridCell.Tab.0.center" timestamp="1585579213973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="869" height="281" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585579213973" />
+    <state width="869" height="281" key="GridCell.Tab.0.left" timestamp="1585579213972">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="869" height="281" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585579213972" />
+    <state width="869" height="281" key="GridCell.Tab.0.right" timestamp="1585579213973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="869" height="281" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585579213973" />
+    <state width="869" height="281" key="GridCell.Tab.1.bottom" timestamp="1585579213973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="869" height="281" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585579213973" />
+    <state width="869" height="281" key="GridCell.Tab.1.center" timestamp="1585579213973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="869" height="281" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585579213973" />
+    <state width="869" height="281" key="GridCell.Tab.1.left" timestamp="1585579213973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="869" height="281" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585579213973" />
+    <state width="869" height="281" key="GridCell.Tab.1.right" timestamp="1585579213973">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="869" height="281" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585579213973" />
+    <state x="688" y="142" key="SettingsEditor" timestamp="1585575594955">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="142" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1585575594955" />
+    <state x="1139" y="423" key="VCS.ChangelistChooser" timestamp="1585579249246">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1139" y="423" key="VCS.ChangelistChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1585579249246" />
+    <state x="694" y="254" key="Vcs.Push.Dialog.v2" timestamp="1585579695055">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="694" y="254" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585579695055" />
+    <state x="928" y="263" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1585288283021">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="928" y="263" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585288283021" />
+    <state x="990" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1585579809604">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="990" y="473" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585579809604" />
+    <state x="809" y="332" key="git4idea.merge.GitPullDialog" timestamp="1585579786042">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="809" y="332" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585579786042" />
+    <state x="669" y="267" width="1251" height="601" key="new project wizard" timestamp="1585577035998">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="267" width="1251" height="601" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1585577035998" />
+    <state x="1327" y="329" width="672" height="676" key="search.everywhere.popup" timestamp="1585563405891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1327" y="329" width="672" height="676" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1585563405891" />
+  </component>
+</project>
